@@ -5,8 +5,11 @@ permalink: /questions/general-questions/index.html
 ---
 
 * What did you learn yesterday/this week?
+We started Python this week. I learned about data structures, algorithms, & recursion with python. Also scripting.
 * What excites or interests you about coding?
+The ability to build something customers love using.
 * What is a recent technical challenge you experienced and how did you solve it?
+Learning how to build a full fledged back-end using Node.js and MongoDb. We needed to create groups for an apartment based app. Managing the complexity of maintaining groups & connecting users to certain groups, and passing up the information cleanly to the front-end was quite difficult.
 * When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
 * Can you describe some SEO best practices or techniques you have used lately?
 * Can you explain any common techniques or recent issues solved in regards to front-end security?
